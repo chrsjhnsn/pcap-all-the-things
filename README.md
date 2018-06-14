@@ -1,4 +1,4 @@
-very quick and very dirty bash script that calls upon the mighty tshark to (try to) convert all files in the current working directory.
+very quick and very dirty bash script that calls upon the mighty tshark to (try to) convert all files in the current working directory into pcaps.
 
 tested on .pkt (savvius) and .pcapng files.
 
